@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Segoe UI', 'Oxygen', 'Ubuntu', 'Cantarell', 
+               'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background-color: #f4f6f8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0 20px;
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', Consolas, 'Menlo', monospace;
+  background-color: #eaeff2;
+  color: #d6336c;
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
